@@ -1,0 +1,47 @@
+header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5vw;
+    color: white;
+    background-color: black;
+}
+header h1 {
+    text-align: center;
+    padding: 1vw;
+}
+header p {
+    text-align: center;
+    padding: 1vw;
+    font-size: 2vw;
+}
+header a {
+    color: white;
+    text-decoration: none;
+}
+section {
+    font-family: 'babus-nue', cursive;
+    font-size: 6vw;
+    padding: auto;
+}
+section#imagem1 {
+    background-image: url('imagens/img1.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+section#imagem2 {
+    background-image: url('imagens/img2.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2vw;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 1vw;
+}
